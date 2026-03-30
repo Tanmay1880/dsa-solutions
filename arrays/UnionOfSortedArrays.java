@@ -76,8 +76,6 @@ public class UnionOfSortedArrays {
         for (int i = 0; i < m; i++) {
             b[i] = sc.nextInt();
         }
-
-        
         Arrays.sort(a);
         Arrays.sort(b);
 
