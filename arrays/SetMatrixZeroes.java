@@ -7,7 +7,7 @@
  * Space: O(1)
  */
 
-public class SetMatrixZeroes {
+public class SetMatrixZeroes{
 
     public static void setZeroes(int[][] matrix) {
         int rows = matrix.length;
